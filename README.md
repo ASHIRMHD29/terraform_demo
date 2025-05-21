@@ -20,4 +20,4 @@ Terraform v1.x
 
 AWS CLI configured (aws configure)
 
-Valid AWS credentials (with permission to launch EC2)
+Valid AWS credentials (with permission to launch EC2).
